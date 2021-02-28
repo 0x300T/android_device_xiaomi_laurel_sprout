@@ -30,5 +30,5 @@ jobs:
           sudo apt-get update
           sudo apt-get install git -y
           cd ~
-          git clone https://github.com/hendramanu/githubactions-ci && cd githubactions-ci
+          git clone https://github.com/0x300T/githubactions-ci && cd githubactions-ci
           ./twrp.sh laurel_sprout 9.0 eng boot
